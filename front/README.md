@@ -1,0 +1,3 @@
+Kakkosvarasto
+
+Fullstack sovellus erillisvaraston saldoseurantaan
